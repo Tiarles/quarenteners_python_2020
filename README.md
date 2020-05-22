@@ -8,7 +8,7 @@ Baixando este repositório (formato zip) vocês tem acesso:
 * As apresentações utilizadas no minicurso
 * Os scripts densenvolvidos
 * O ``.cmd`` para abrir cada um dos notebooks (``Dia_1.ipynb`` e ``Dia_2.ipynb``) 
-* E um ``.cmd`` extra para abrir o jupyter-notebook na raiz do disco C, para abrirem qualquer jupyter-notebook em seus computadores.
+* E um ``.cmd`` extra para abrir o jupyter-notebook na raiz na pasta de usuário, para abrirem qualquer ou jupyter-notebook em seus computadores e criar novos em qualquer lugar.
 
 Enjoy!
 
