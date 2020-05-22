@@ -18,6 +18,8 @@ Acesso Rápido:
 
 Qualquer dúvida ou problemas com o material clique na aba Issues e relate o problema que eu o recebo 😉
 
+![tmp](.images/issues_tab.png)
+
 Enjoy!
 
 Tiarles Guterres
